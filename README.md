@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Afganirwansyahhiday" /> 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Sulthon+Farizudin+Al+Bashir!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sulthon+Farizudin+Al+Bashir!;" />
 </h1>
 
 My name is Sulthon Farizudin Al Bashir. 👨‍💻 I have a profound passion for the world of technology 💻✨, especially in innovation and software development. 🚀 Currently, I am diving into the fascinating world of coding, a thrilling journey 🌟 that opens doors to various possibilities. 🔑🌐
