@@ -94,17 +94,11 @@
 
 <div align="center">
 
-## `GITHUB CORE`
+## `CONTRIBUTION PROTOCOL`
 
 <br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SlthnFabsh&show_icons=true&hide_border=true&bg_color=020617&title_color=00F7FF&text_color=CBD5E1&icon_color=8B5CF6&ring_color=00F7FF&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlthnFabsh&layout=compact&hide_border=true&bg_color=020617&title_color=00F7FF&text_color=CBD5E1&include_all_commits=true&count_private=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=SlthnFabsh&theme=transparent&hide_border=true&background=020617&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF&sideLabels=CBD5E1&dates=64748B"/>
+<img src="https://raw.githubusercontent.com/SlthnFabsh/SlthnFabsh/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -126,17 +120,7 @@
 
 <div align="center">
 
-## `CONTRIBUTION PROTOCOL`
 
-<br>
-
-<img src="https://raw.githubusercontent.com/SlthnFabsh/SlthnFabsh/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-<br>
-
----
 
 <div align="center">
 
