@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SULTON%20FARIZUDIN&fontSize=55&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=twinkling&color=0:020617,50:0F172A,100:020617"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=999999&color=00F7FF&center=true&vCenter=true&width=550&height=35&lines=hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm" />
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&text=SULTON%20FARIZUDIN&fontSize=55&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=twinkling&color=0:020617,50:0F172A,100:020617"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=FULL+STACK+DEVELOPER+%7C+SYSTEM+BUILDER;Turning+ideas+into+digital+experiences.;Code.+Create.+Deploy.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=Code.+Create.+Deploy.+Repeat." />
 
 <br><br>
 
