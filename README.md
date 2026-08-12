@@ -12,8 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=SlthnFabsh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SlthnFabsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SlthnFabsh&theme=shadow_green&no-frame=false&no-bg=false&margin-w=4)
+## 🎵 Currently Listening
+
+<a href="https://open.spotify.com/track/6cgBRhTzwk0OBhRX2E5F3V">
+  <img src="https://i.scdn.co/image/ab67616d0000b273" width="400"/>
+</a>
+
+**Ini Abadi — Perunggu**
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
