@@ -12,13 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=SlthnFabsh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SlthnFabsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🎵 Currently Listening
-
-<a href="https://open.spotify.com/track/6cgBRhTzwk0OBhRX2E5F3V">
-  <img src="https://i.scdn.co/image/ab67616d0000b273" width="400"/>
-</a>
-
-**Ini Abadi — Perunggu**
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxq5gyykjbzo2agk6bzldy6bya&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
