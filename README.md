@@ -1,58 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SULTON%20FARIZUDIN&fontSize=52&fontAlignY=35&desc=%3C%2FFULL%20STACK%20DEVELOPER%3E&descAlignY=58&descSize=18&animation=twinkling&fontColor=00F7FF&color=0:020617,35:0D1117,70:111827,100:020617"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SULTON%20FARIZUDIN&fontSize=55&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=twinkling&color=0:020617,50:0F172A,100:020617"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=850&height=60&lines=%5B+SYSTEM+INITIALIZING...+%5D;%5B+LOADING+SULTON_FARIZUDIN...+%5D;%5B+FULL_STACK_DEVELOPER+%3E+ONLINE+%5D;%5B+BUILDING+THE+FUTURE+WITH+CODE...+%5D;%5B+SYSTEM+READY+%E2%9C%93+%5D"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=FULL+STACK+DEVELOPER+%7C+SYSTEM+BUILDER;Turning+ideas+into+digital+experiences.;Code.+Create.+Deploy.+Repeat." />
 
 <br><br>
 
-<a href="https://github.com/SlthnFabsh">
-<img src="https://komarev.com/ghpvc/?username=SlthnFabsh&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BUILDING-SOMETHING%20COOL-8B5CF6?style=for-the-badge&labelColor=020617"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BASED%20IN-INDONESIA-22C55E?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-<a href="https://github.com/SlthnFabsh">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
-</a>
-&nbsp;
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
-</a>
-
 </div>
 
-<br>
-
-<div align="center">
-
-```text id="6nq8vl"
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   USER        : SULTON_FARIZUDIN                            ║
-║   ROLE        : FULL_STACK_DEVELOPER                        ║
-║   LOCATION    : INDONESIA                                   ║
-║   STATUS      : ONLINE                                      ║
-║   CURRENTLY   : BUILDING                                    ║
-║                                                              ║
-║   SYSTEM      : [████████████████████████████] 100%         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-## `// WHO AM I?`
+## `WHO AM I?`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&height=45&lines=Software+Engineering+Student+%F0%9F%92%BB;Fullstack+Developer+%E2%9A%A1;API+%26+System+Design+Enthusiast+%F0%9F%A7%A0;Always+Learning.+Always+Building.+%F0%9F%9A%80"/>
 
@@ -72,7 +40,7 @@
 
 <div align="center">
 
-## `// TECH ARSENAL`
+## `TECH ARSENAL`
 
 <br>
 
@@ -96,7 +64,7 @@
 
 <div align="center">
 
-## `// NOW PLAYING`
+## `NOW PLAYING`
 
 <br>
 
@@ -126,7 +94,7 @@
 
 <div align="center">
 
-## `// GITHUB CORE`
+## `GITHUB CORE`
 
 <br>
 
@@ -146,7 +114,7 @@
 
 <div align="center">
 
-## `// ACTIVITY MATRIX`
+## `ACTIVITY MATRIX`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SlthnFabsh&bg_color=020617&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=SULTON%20FARIZUDIN%20%2F%2F%20ACTIVITY"/>
 
@@ -158,7 +126,7 @@
 
 <div align="center">
 
-## `// CONTRIBUTION PROTOCOL`
+## `CONTRIBUTION PROTOCOL`
 
 <br>
 
@@ -172,18 +140,7 @@
 
 <div align="center">
 
-```text id="f9k1xd"
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   > CODE                                                      │
-│   > CREATE                                                    │
-│   > DEPLOY                                                    │
-│   > REPEAT                                                    │
-│                                                              │
-│   "Turning ideas into something people can use."             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+
 
 <br>
 
