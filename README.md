@@ -74,13 +74,6 @@
 
 </a>
 
-  
-
-<a href="https://open.spotify.com/track/41jLKrK1nJisuz8JJ2t09Y">
-
-<img src="https://img.shields.io/badge/%E2%96%B6%20AKU%20ADA%20UNTUKMU%20%E2%80%94%20PERUNGGU-020617?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
-
-</a>
 
 <br><br>
 
