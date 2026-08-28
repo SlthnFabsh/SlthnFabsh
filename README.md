@@ -101,12 +101,6 @@
 
 <div align="center">
 
-## `ACTIVITY MATRIX`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SlthnFabsh&bg_color=020617&color=00F7FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=SULTON%20FARIZUDIN%20%2F%2F%20ACTIVITY"/>
-
-</div>
-
 <br>
 
 ---
